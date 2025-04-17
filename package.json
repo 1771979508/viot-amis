@@ -237,9 +237,9 @@
     }
   },
   "peerDependencies": {
-    "amis-core": "*",
-    "amis-ui": "*",
-    "office-viewer": "*",
+    "viot-amis-core": "*",
+    "viot-amis-ui": "*",
+    "viot-office-viewer": "*",
     "react": ">=16.8.6",
     "react-dom": ">=16.8.6"
   },
