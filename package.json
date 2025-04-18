@@ -1,6 +1,6 @@
 {
   "name": "viot-amis",
-  "version": "6.7.0",
+  "version": "6.7.1",
   "description": "一种MIS页面生成工具",
   "main": "lib/index.js",
   "module": "esm/index.js",
